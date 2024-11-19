@@ -13,7 +13,7 @@ Sou um analista de dados em formação com entusiasmo em explorar, processar e i
 
 ### 📊 Minhas Habilidades
 
-- **Linguagens de Programação:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Linguagens de Programação:** SQL, Python 
 - **Visualização de Dados:** Microsoft Power BI, Excel
 - **Análise de Dados:** Extração, Transformação e Carga (ETL), Modelagem, Apresentações e Storytelling com Dados.
 - **Banco de Dados:** PostgreSQL, MySQL, SQLite  
