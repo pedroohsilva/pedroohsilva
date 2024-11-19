@@ -4,13 +4,13 @@
 📊 Apaixonado por transformar o valioso recurso dos dados, o novo petróleo, em combustível para construção de um futuro melhor.
 ---
 
-## 🚀 Sobre mim
+## 🏅 Sobre o meu Propósito
 
-Sou um analista de dados em formação com experiência em explorar, processar e interpretar grandes volumes de informações. Tenho foco em criar insights que ajudam empresas e pessoas a alcançarem seus objetivos.
+Sou um analista de dados em formação com experiência em explorar, processar e interpretar grandes volumes de informações. O meu propósito é contribuir para que as empresas transformem o valioso recurso dos dados, o novo petróleo, em combustível para um futuro melhor. 🏅
 
 ---
 
-## 🔧 Habilidades
+## 🚀 Habilidades
 
 - **Linguagens de Programação:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Visualização de Dados:** Microsoft Power BI, Excel
