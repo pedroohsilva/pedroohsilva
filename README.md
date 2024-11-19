@@ -5,13 +5,13 @@ Apaixonado por transformar o valioso recurso dos dados, o novo petróleo, em com
 
 ---
 
-### 🏅 Sobre o meu Propósito
+### 🏅 Sobre o meu Propósito:
 
 Sou um analista de dados em formação com entusiasmo em explorar, processar e interpretar grandes volumes de informações. O meu propósito é contribuir para que as empresas transformem o valioso recurso dos dados, o novo petróleo, em combustível para um futuro melhor.
 
 ---
 
-### 📊 Minhas Habilidades
+### 📊 Minhas Habilidades:
 
 - **Linguagens de Programação:** SQL, Python 
 - **Visualização de Dados:** Microsoft Power BI, Excel
@@ -23,5 +23,8 @@ Sou um analista de dados em formação com entusiasmo em explorar, processar e i
 
 ### 📫 Vamos Trocar uma Ideia!
 
-💼 **LinkedIn:** https://www.linkedin.com/in/pedro-silva-1032a7243/  
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro_Silva-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-silva-1032a7243/)](https://www.linkedin.com/in/pedro-silva-1032a7243/)
+
+[![Gmail Badge](https://img.shields.io/badge/-contatopedrosilva001@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatopedrosilva001@gmail.com)](mailto:contatopedrosilva001@gmail.com)
+
 🌐 **Portfólio de Projetos:** https://projetospedrosilva.com.br/
