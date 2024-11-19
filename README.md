@@ -2,7 +2,6 @@
 
 🎯 **Analista de Dados Junior** | 💻 **Entusiasta em SQL, Power BI, Python e Visualização de Dados**  
 📊 Apaixonado por transformar o valioso recurso dos dados, o novo petróleo, em combustível para construção de um futuro melhor.
----
 
 ## 🏅 Sobre o meu Propósito
 
