@@ -1,13 +1,13 @@
-# 👋 Olá, sou Pedro Silva!
+## Olá, sou Pedro Silva! 👋
 
-🎯 **Analista de Dados Junior**, entusiasta em SQL, Excel, Power BI, Python e Storytelling Dados.
+**Analista de Dados Junior**, entusiasta em SQL, Excel, Power BI, Python e Storytelling Dados.
 Apaixonado por transformar o valioso recurso dos dados, o novo petróleo, em combustível para construção de um futuro melhor.
 
 ---
 
 ### 🏅 Sobre o meu Propósito
 
-Sou um analista de dados em formação com experiência em explorar, processar e interpretar grandes volumes de informações. O meu propósito é contribuir para que as empresas transformem o valioso recurso dos dados, o novo petróleo, em combustível para um futuro melhor. 🏅
+Sou um analista de dados em formação com entusiasmo em explorar, processar e interpretar grandes volumes de informações. O meu propósito é contribuir para que as empresas transformem o valioso recurso dos dados, o novo petróleo, em combustível para um futuro melhor.
 
 ---
 
@@ -21,7 +21,7 @@ Sou um analista de dados em formação com experiência em explorar, processar e
 
 ---
 
-### 📫 Vamos trocar uma Ideia! ;)
+### 📫 Vamos Trocar uma Ideia!
 
 💼 **LinkedIn:** https://www.linkedin.com/in/pedro-silva-1032a7243/  
 🌐 **Portfólio:** https://projetospedrosilva.com.br/)](https://projetospedrosilva.com.br/
