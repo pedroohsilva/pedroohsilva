@@ -1,7 +1,7 @@
 # 👋 Olá, sou Pedro Silva!
 
-🎯 **Analista de Dados Junior** | 💻 **Entusiasta em SQL, Power BI, Python e Visualização de Dados**  
-📊 Apaixonado por transformar o valioso recurso dos dados, o novo petróleo, em combustível para construção de um futuro melhor.
+🎯 **Analista de Dados Junior**, Entusiasta em SQL, Power BI, Python e Visualização de Dados  
+Apaixonado por transformar o valioso recurso dos dados, o novo petróleo, em combustível para construção de um futuro melhor.
 
 ## 🏅 Sobre o meu Propósito
 
@@ -9,7 +9,7 @@ Sou um analista de dados em formação com experiência em explorar, processar e
 
 ---
 
-## 🚀 Habilidades
+## 📊 Habilidades
 
 - **Linguagens de Programação:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Visualização de Dados:** Microsoft Power BI, Excel
