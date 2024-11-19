@@ -12,12 +12,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Anali
 - **Banco de Dados:** PostgreSQL, MySQL
 - **Técnicas e Frameworks:** Método MECE, Pirâmide de Minto, Árvore de Problemas, Diagrama de Ishikawa
 
-<img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="50"/>
-<img src="https://github.com/user-attachments/assets/ac05eac4-e384-40eb-a261-f8b8efeeabc8" alt="Power BI" width="50"/>
-<img src="https://github.com/user-attachments/assets/9840fb8c-9fd7-411b-aa64-325df73b73dd" alt="Excel" width="50"/>
-<img src="https://github.com/user-attachments/assets/c94e8d56-c48a-4ff8-bc21-968406d2c058" alt="Jupyter" width="50"/>
-<img src="https://github.com/user-attachments/assets/d176e4c3-89b7-43dd-a1ea-4a1c5624ea56" alt="RStudio" width="50"/>
-<img src="https://github.com/user-attachments/assets/cb82d88f-2741-4845-be01-c635d1229c19" alt="SQL" width="50"/>
+<img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="45"/>
+<img src="https://github.com/user-attachments/assets/ac05eac4-e384-40eb-a261-f8b8efeeabc8" alt="Power BI" width="45"/>
+<img src="https://github.com/user-attachments/assets/9840fb8c-9fd7-411b-aa64-325df73b73dd" alt="Excel" width="45"/>
+<img src="https://github.com/user-attachments/assets/c94e8d56-c48a-4ff8-bc21-968406d2c058" alt="Jupyter" width="45"/>
+<img src="https://github.com/user-attachments/assets/d176e4c3-89b7-43dd-a1ea-4a1c5624ea56" alt="RStudio" width="45"/>
+<img src="https://github.com/user-attachments/assets/cb82d88f-2741-4845-be01-c635d1229c19" alt="SQL" width="45"/>
 
 ---
 
