@@ -6,7 +6,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Anali
 
 ### 📊 Minhas Habilidades:
 
-- **Linguagens:** SQL, Python 
+- **Linguagens:** SQL 
 - **Visualização de Dados:** Microsoft Power BI, Excel
 - **Análise de Dados:** ETL, Modelagem, Apresentações e Storytelling com Dados
 - **Banco de Dados:** PostgreSQL, MySQL  
