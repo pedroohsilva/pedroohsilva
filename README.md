@@ -8,7 +8,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Anali
 
 - **Linguagens:** SQL, Python 
 - **Visualização de Dados:** Microsoft Power BI, Excel
-- **Análise de Dados:** ETL, Modelagem, Apresentações e Storytelling com Dados.
+- **Análise de Dados:** ETL, Modelagem, Apresentações e Storytelling com Dados
 - **Banco de Dados:** PostgreSQL, MySQL  
 - **Frameworks:** Árvore de Problemas, Diagrama de Ishikawa
 
