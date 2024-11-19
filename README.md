@@ -25,4 +25,3 @@ Sou um analista de dados em formação com entusiasmo em explorar, processar e i
 
 💼 **LinkedIn:** https://www.linkedin.com/in/pedro-silva-1032a7243/  
 🌐 **Portfólio:** https://projetospedrosilva.com.br/)](https://projetospedrosilva.com.br/
-
