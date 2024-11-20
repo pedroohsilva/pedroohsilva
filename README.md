@@ -1,4 +1,4 @@
-### Olá! Sou Pedro Silva, Analista de Dados 👋
+### 👋 Olá! Sou Pedro Silva, Analista de Dados
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Analista de Dados em formação** e apaixonado por gerar valor para o mundo ao explorar, processar e analisar grandes volumes de dados. Nesse sentido, o propósito que me move é contribuir para que as empresas transformem o valioso recurso dos dados, o novo petróleo, em combustível para um futuro melhor. 
 
