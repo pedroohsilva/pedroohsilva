@@ -10,7 +10,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Anali
 - **Visualização de Dados:** Microsoft Power BI, Excel
 - **Análise de Dados:** ETL, Modelagem, Apresentações e Storytelling com Dados
 - **Banco de Dados:** PostgreSQL, MySQL
-- **Técnicas e Frameworks:** Método MECE, Pirâmide de Minto, Árvore de Problemas, Diagrama de Ishikawa
+- **Técnicas e Frameworks:** Método MECE, Pirâmide de Minto, Árvore de Problemas
 
 <img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="45"/>
 <img src="https://github.com/user-attachments/assets/ac05eac4-e384-40eb-a261-f8b8efeeabc8" alt="Power BI" width="45"/>
