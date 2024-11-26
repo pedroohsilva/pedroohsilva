@@ -24,7 +24,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Anali
 ### 🏅 Vamos Trocar uma Ideia!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro_Silva-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-silva-1032a7243/)](https://www.linkedin.com/in/pedro-silva-1032a7243/)
-[![Portfolio](https://img.shields.io/badge/Explore_Meu_Portfólio-0052CC?style=flat-square&logo=google-chrome&logoColor=white)]([https://projetospedrosilva.com.br/](https://www.projetospedrosilva.com.br/in%C3%ADcio)/)
+[![Portfólio](https://img.shields.io/badge/Explore_Meu_Portfólio-0052CC?style=flat-square&logo=google-chrome&logoColor=white)](https://www.projetospedrosilva.com.br/in%C3%ADcio/)
 [![Gmail Badge](https://img.shields.io/badge/-contatopedrosilva001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatopedrosilva001@gmail.com)](mailto:contatopedrosilva001@gmail.com)
 
 
