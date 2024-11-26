@@ -21,6 +21,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Anali
 
 ---
 
+### "O que não pode ser medido não pode ser gerenciado." Jáz dizia a célebre frase do estatśitico estadunidense William Edwards Deming.
+
+A sua empresa está aproveitando todo o potencial dos dados para tomar decisões mais estratégicas e eficientes? 
+
 ### 🏅 Vamos Trocar uma Ideia!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro_Silva-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-silva-1032a7243/)](https://www.linkedin.com/in/pedro-silva-1032a7243/)
