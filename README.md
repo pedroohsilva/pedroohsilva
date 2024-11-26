@@ -10,15 +10,15 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Anali
 - **Visualização de Dados:** Microsoft Power BI, Excel
 - **Análise de Dados:** ETL, Modelagem, Apresentações e Storytelling com Dados
 - **Banco de Dados:** PostgreSQL, MySQL
-- **Técnicas e Frameworks:** Método MECE, Pirâmide de Minto, Árvore de Problemas
+- **Técnicas e Frameworks:** Apresentações executivas com Pirâmide de Minto, Estruturação de Árvore de Problemas, Método MECE
 
 <img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="45"/>
 <img src="https://github.com/user-attachments/assets/ac05eac4-e384-40eb-a261-f8b8efeeabc8" alt="Power BI" width="45"/>
 <img src="https://github.com/user-attachments/assets/9840fb8c-9fd7-411b-aa64-325df73b73dd" alt="Excel" width="45"/>
 <img src="https://github.com/user-attachments/assets/c94e8d56-c48a-4ff8-bc21-968406d2c058" alt="Jupyter" width="45"/>
-<img src="https://github.com/user-attachments/assets/d176e4c3-89b7-43dd-a1ea-4a1c5624ea56" alt="RStudio" width="45"/>
-<img src="https://github.com/user-attachments/assets/cb82d88f-2741-4845-be01-c635d1229c19" alt="SQL" width="45"/>
 <img src="https://github.com/user-attachments/assets/f961697d-1d57-403d-8b89-0e1e78634014" alt="Databricks" width="35"/>
+<img src="https://github.com/user-attachments/assets/d176e4c3-89b7-43dd-a1ea-4a1c5624ea56" alt="BigQuery from Google Cloud Plataform" width="45"/>
+<img src="https://github.com/user-attachments/assets/cb82d88f-2741-4845-be01-c635d1229c19" alt="MySQL" width="45"/>
 
 ---
 
