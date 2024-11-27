@@ -6,10 +6,12 @@
 
 ### Habilidades e Ferramentas que Utilizo:
 
-- **Linguagens de Programação:** Python para Análise Exploratória, SQL para ETL e Análise de Dados
-- **Visualização de Dados:** Power Point e Microsoft Power BI para modelagem, visualização e Storytelling com Dados
+- **Linguagens de Programação:** Python, SQL
+- **Ferramentas Estatísticas:** Jamovi
+- **Visualização de Dados:** Power Point e Microsoft Power BI
 - **Banco de Dados:** PostgreSQL, MySQL
-- **Técnicas e Frameworks:** Apresentações executivas com Pirâmide de Minto, Estruturação de Árvore de Problemas, Método MECE
+- **Controle de Versão e Colaboração:** Git
+- **Técnicas e Frameworks:** Apresentações Executivas, Estruturação de Árvore de Problemas e Storytelling com Dados
 
 <img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="45"/>
 <img src="https://github.com/user-attachments/assets/ac05eac4-e384-40eb-a261-f8b8efeeabc8" alt="Power BI" width="45"/>
