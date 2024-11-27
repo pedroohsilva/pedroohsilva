@@ -9,7 +9,7 @@
 - **Linguagens de Programação:** Python, SQL
 - **Ferramentas Estatísticas:** Jamovi
 - **Visualização de Dados:** Power Point e Microsoft Power BI
-- **Banco de Dados:** PostgreSQL, MySQL
+- **Banco de Dados:** Databricks, PostgreSQL, MySQL
 - **Controle de Versão e Colaboração:** Git
 - **Técnicas e Frameworks:** Apresentações Executivas, Estruturação de Árvore de Problemas e Storytelling com Dados
 
