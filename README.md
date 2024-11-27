@@ -7,7 +7,7 @@
 ### Habilidades e Ferramentas que Utilizo:
 
 - **Linguagens de Programação:** Python, SQL
-- **Ferramentas Estatísticas:** Jamovi
+- **Ferramentas Estatísticas:** Jamovi (baseado em R Studio)
 - **Visualização de Dados:** Power Point e Microsoft Power BI
 - **Banco de Dados:** Databricks, PostgreSQL, MySQL
 - **Controle de Versão e Colaboração:** Git
