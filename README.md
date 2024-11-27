@@ -7,7 +7,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Anali
 ### Habilidades e Ferramentas que Utilizo:
 
 - **Linguagens de Programação:** Python para Análise Exploratória, SQL para ETL e Análise de Dados
-- **Visualização de Dados:** Microsoft Power BI, Excel para modelagem, visualização e Storytelling com Dados
+- **Visualização de Dados:** Microsoft Power BI para modelagem, visualização e Storytelling com Dados
 - **Banco de Dados:** PostgreSQL, MySQL
 - **Técnicas e Frameworks:** Apresentações executivas com Pirâmide de Minto, Estruturação de Árvore de Problemas, Método MECE
 
