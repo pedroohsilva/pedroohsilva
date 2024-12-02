@@ -25,7 +25,7 @@
 
 ---
 
-### "O que não pode ser medido não pode ser gerenciado." Jáz dizia a célebre frase do estatśitico estadunidense William Edwards Deming.
+### "O que não pode ser medido não pode ser gerenciado." Já dizia a célebre frase do estatístico estadunidense William Edwards Deming.
 
 A sua empresa está aproveitando todo o potencial dos dados para tomar decisões mais estratégicas e eficientes? 
 
