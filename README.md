@@ -11,7 +11,7 @@
 - **Visualização de Dados:** Power Point e Microsoft Power BI
 - **Banco de Dados:** Databricks, PostgreSQL, MySQL
 - **Controle de Versão e Colaboração:** Git
-- **Técnicas e Frameworks:** Apresentações Executivas, Estruturação de Árvore de Problemas e Storytelling com Dados
+- **Técnicas e Frameworks:** Estruturação de Árvore de Problemas, Método M.A.P.E, Apresentações Executivas e Storytelling com Dados
 
 <img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="45"/>
 <img src="https://github.com/user-attachments/assets/ac05eac4-e384-40eb-a261-f8b8efeeabc8" alt="Power BI" width="45"/>
