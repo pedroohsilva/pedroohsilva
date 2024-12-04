@@ -36,8 +36,8 @@ A sua empresa está aproveitando todo o potencial dos dados para tomar decisões
 
 ### Conheça mais Detalhes Sobre meus Projetos!
 
-[![Portfólio](https://img.shields.io/badge/Explore_Meu_Portfólio-0052CC?style=flat-square&logo=google-chrome&logoColor=white)](https://www.projetospedrosilva.com.br/in%C3%ADcio/)
 [![Ver Artigos no Medium](https://img.shields.io/badge/Ver_Artigos_no_Medium-03A57B?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@pedroalves112020)
+[![Portfólio](https://img.shields.io/badge/Explore_Meu_Portfólio-0052CC?style=flat-square&logo=google-chrome&logoColor=white)](https://www.projetospedrosilva.com.br/in%C3%ADcio/)
 
 
 
