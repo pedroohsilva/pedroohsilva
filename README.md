@@ -34,7 +34,7 @@ A sua empresa está aproveitando todo o potencial dos dados para tomar decisões
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro_Silva-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-silva-1032a7243/)](https://www.linkedin.com/in/pedro-silva-1032a7243/)
 [![Gmail Badge](https://img.shields.io/badge/-contatopedrosilva001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatopedrosilva001@gmail.com)](mailto:contatopedrosilva001@gmail.com)
 
-### Conheça mais Detalhes Sobre meus Projetos!
+### Conheça mais Detalhes Sobre meus Projetos:
 
 [![Ver Artigos no Medium](https://img.shields.io/badge/Ver_Artigos_no_Medium-03A57B?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@pedroalves112020)
 [![Portfólio](https://img.shields.io/badge/Explore_Meu_Portfólio-0052CC?style=flat-square&logo=google-chrome&logoColor=white)](https://www.projetospedrosilva.com.br/in%C3%ADcio/)
