@@ -4,7 +4,7 @@
 
 ---
 
-### Habilidades e Ferramentas que Utilizo 🛠️
+### Habilidades e Ferramentas 🛠️
 | Categoria                        | Detalhes                                                                                     |
 | -------------------------------- | -------------------------------------------------------------------------------------------- |
 | **Linguagens**    | Python, SQL                                                                                                 |
