@@ -4,14 +4,16 @@
 
 ---
 
-### Habilidades e Ferramentas que Utilizo:
+### Habilidades e Ferramentas que Utilizo 🛠️
+| Categoria                        | Detalhes                                                                                     |
+| -------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Linguagens**    | Python, SQL                                                                                                 |
+| **Estatística**     | Estatística Descritiva e Inferencial, Jamovi (R Studio)                                                                               |
+| **Visualização de Dados**        | Microsoft Power BI, Microsoft PowerPoint                                                               |
+| **Banco de Dados**               | Databricks, PostgreSQL, MySQL                                                                |
+| **Controle de Versão** | Git                                                                                           |
+| **Técnicas e Frameworks**        | MECE, Estruturação de Árvore de Problemas, M.A.P.E, Storytelling com Dados, Apresentações Executivas |
 
-- **Linguagens de Programação:** Python, SQL
-- **Ferramentas Estatísticas:** Jamovi (baseado em R Studio)
-- **Visualização de Dados:** Power Point e Microsoft Power BI
-- **Banco de Dados:** Databricks, PostgreSQL, MySQL
-- **Controle de Versão e Colaboração:** Git
-- **Técnicas e Frameworks:** Estruturação de Árvore de Problemas, Método M.A.P.E, Apresentações Executivas e Storytelling com Dados
 
 <img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="45"/>
 <img src="https://github.com/user-attachments/assets/ac05eac4-e384-40eb-a261-f8b8efeeabc8" alt="Power BI" width="45"/>
