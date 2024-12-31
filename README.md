@@ -4,7 +4,7 @@
 
 ---
 
-### Conhecimentos 🛠️
+### Conhecimentos 💡
 | Categoria                        | Detalhes                                                                                     |
 | -------------------------------- | -------------------------------------------------------------------------------------------- |
 | **Ferramentas**    | Excel, SQL, Python e Jamovi (R Studio)                                                                                               |
