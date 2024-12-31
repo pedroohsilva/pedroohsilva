@@ -7,12 +7,11 @@
 ### Habilidades e Ferramentas 🛠️
 | Categoria                        | Detalhes                                                                                     |
 | -------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Linguagens**    | Python, SQL                                                                                                 |
-| **Estatística**     | Estatística Descritiva e Inferencial, Jamovi (R Studio)                                                                               |
-| **Visualização de Dados**        | Microsoft Power BI, Microsoft PowerPoint                                                               |
-| **Banco de Dados**               | Databricks, PostgreSQL, MySQL                                                                |
-| **Controle de Versão** | Git                                                                                           |
-| **Técnicas e Frameworks**        | MECE, Estruturação de Árvore de Problemas, M.A.P.E, Storytelling com Dados, Apresentações Executivas |
+| **Ferramentas**    | Excel, SQL e Python                                                                                                |
+| **Estatística**     | Análise Exploratória de Dados, Testes Estatísticos com Jamovi (R Studio)                                                                               |
+| **Data Viz**        | Microsoft Power BI, Microsoft PowerPoint                                                               |
+| **Controle de Versão** | Git e GitHub                                                                                          |
+| **Técnicas e Frameworks**        | Piramide de Minto, Método MECE, Estruturação de Árvore de Problemas, Storytelling com Dados e Apresentações Executivas |
 
 
 <img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="45"/>
