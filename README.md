@@ -7,8 +7,8 @@
 ### Habilidades e Ferramentas 🛠️
 | Categoria                        | Detalhes                                                                                     |
 | -------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Ferramentas**    | Excel, SQL e Python                                                                                                |
-| **Estatística**     | Análise Exploratória de Dados, Testes Estatísticos com Jamovi (R Studio)                                                                               |
+| **Ferramentas**    | Excel, SQL, Python e Jamovi (R Studio)                                                                                               |
+| **Estatística**     | Análise Exploratória de Dados, Testes Estatísticos                                                                               |
 | **Data Viz**        | Microsoft Power BI, Microsoft PowerPoint                                                               |
 | **Controle de Versão** | Git e GitHub                                                                                          |
 | **Técnicas e Frameworks**        | Piramide de Minto, Método MECE, Estruturação de Árvore de Problemas, Storytelling com Dados e Apresentações Executivas |
