@@ -8,7 +8,7 @@
 | Categoria                        | Detalhes                                                                                     |
 | -------------------------------- | -------------------------------------------------------------------------------------------- |
 | **Ferramentas**    | Excel, SQL, Python e Jamovi (R Studio)                                                                                               |
-| **Estatística**     | Análise Exploratória de Dados, Testes Estatísticos                                                                               |
+| **Estatística**     | Estatística Descritiva / Análise Exploratória de Dados, Testes Estatísticos                                                                               |
 | **Visualização de Dados**        | Microsoft Power BI, Microsoft PowerPoint                                                               |
 | **Plataformas**      | Databricks, BigQuery
 | **Controle de Versão** | Git e GitHub                                                                                          |
