@@ -9,10 +9,11 @@
 | -------------------------------- | -------------------------------------------------------------------------------------------- |
 | **Ferramentas**    | Excel, SQL, Python e Jamovi (R Studio)                                                                                               |
 | **Estatística**     | Estatística Descritiva / Análise Exploratória de Dados, Testes Estatísticos                                                                               |
-| **Visualização de Dados**        | Microsoft Power BI, Microsoft PowerPoint                                                               |
+| **Visualização de Dados**        | Microsoft Power BI, Microsoft PowerPoint, Canvas                                                               |
 | **Plataformas**      | Databricks, BigQuery
 | **Controle de Versão** | Git e GitHub                                                                                          |
-| **Técnicas e Frameworks**        | Piramide de Minto, Método MECE, Estruturação de Árvore de Problemas, Storytelling com Dados e Apresentações Executivas |
+| **Metodologias Ágeis** | SCRUM                                                                                         |
+| **Técnicas e Frameworks**        | Estruturação de Árvore de Problemas, Método MECE, Storytelling com Dados e Apresentações Executivas |
 
 
 <img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="45"/>
@@ -30,8 +31,6 @@
 <img src="https://github.com/user-attachments/assets/f961697d-1d57-403d-8b89-0e1e78634014" alt="Databricks" width="35"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/d176e4c3-89b7-43dd-a1ea-4a1c5624ea56" alt="BigQuery from Google Cloud Plataform" width="45"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/cb82d88f-2741-4845-be01-c635d1229c19" alt="MySQL" width="45"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/c94e8d56-c48a-4ff8-bc21-968406d2c058" alt="Jupyter" width="45"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
