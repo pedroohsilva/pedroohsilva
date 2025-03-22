@@ -1,6 +1,6 @@
 ### Olá! Sou Pedro Silva, Analista de Dados 👋
 
-**Bolsista 1º lugar do Prouni** no curso de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Analista de Dados** e apaixonado por gerar valor para o mundo ao explorar, processar e analisar grandes volumes de dados. Assim, o propósito que me move é contribuir para que as empresas transformem o valioso recurso dos dados, o novo petróleo, em combustível para um futuro melhor.
+**Bolsista 1º lugar do Prouni** no curso de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, **Analista de Dados** e apaixonado por gerar valor para o mundo ao explorar, processar e analisar grandes volumes de dados. O propósito que me move é contribuir para que as empresas transformem o valioso recurso dos dados, o novo petróleo, em combustível para um futuro melhor.
 
 ---
 
