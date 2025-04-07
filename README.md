@@ -7,7 +7,7 @@
 ### Conhecimentos 💡
 | Categoria                        | Detalhes                                                                                     |
 | -------------------------------- | -------------------------------------------------------------------------------------------- |
-| **ML, Desenvolvimento**    | Python, SQL, Estatística, Machine Learning                                                                                    |
+| **ML, Desenvolvimento**    | Python, SQL, Estatística, Machine Learning (estudando atualmente)                                                                                   |
 | **Visualização de Dados**        | Microsoft Power BI, Excel                                                            |
 | **Plataformas de Dados**      | Databricks, BigQuery
 
