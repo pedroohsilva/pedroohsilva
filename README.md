@@ -8,10 +8,10 @@
 ---
 ### 💡 Conhecimentos e Tecnologias
 
-| Categoria                 | Tecnologias e Ferramentas                      | Nível de Domínio   |
-| ------------------------- | ---------------------------------------------- | ------------------ |
-| **Análise de Dados**      | Python, SQL, Análise Exploratória de Dados     | Intermediário      |
-| **Visualização de Dados** | Microsoft Power BI, Excel                      | Intermediário      |
+| Categoria                 | Tecnologias e Ferramentas                      |
+| ------------------------- | ---------------------------------------------- |
+| **Análise de Dados**      | Python, SQL, Análise Exploratória de Dados     |
+| **Visualização de Dados** | Microsoft Power BI, Excel                      |
 | **Cloud Computing**  | Azure, Databricks                              | Básico |
 | **Machine Learning** | Estatística, Machine Learning (em desenvolvimento) | Básico |
 
