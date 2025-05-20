@@ -2,7 +2,7 @@
 
 **Em busca de uma oportunidade profissional como Analista de Dados Júnior** ✨
 
-**Bolsista em 1º lugar pelo Prouni** no curso de **Análise e Desenvolvimento de Sistemas** na UniFBV Wyden, sou Analista de Dados e apaixonado por gerar valor ao explorar, processar e analisar grandes volumes de dados. Meu propósito é contribuir com empresas que buscam transformar dados — o novo petróleo — em combustível para decisões inteligentes e um futuro melhor.
+**Bolsista em 1º lugar pelo Prouni 2024** no curso de Análise e Desenvolvimento de Sistemas, sou **Analista de Dados** apaixonado por Cloud, Dados e Machine Learning. O propósito que me move é contribuir com empresas que buscam transformar dados — o novo petróleo — em combustível para um futuro melhor.
 
 
 ---
