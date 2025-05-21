@@ -11,7 +11,7 @@
 | Categoria                 | Tecnologias e Ferramentas                      |
 | ------------------------- | ---------------------------------------------- |
 | **Análise de Dados**      | Python, SQL, Análise Exploratória de Dados     |
-| **Visualização de Dados** | Microsoft Power BI, Excel                      |
+| **Visualização de Dados** | Microsoft Power BI                      |
 | **Cloud Computing**  | Azure, Databricks                              | Básico |
 | **Machine Learning** | Estatística, Machine Learning (em desenvolvimento) | Básico |
 
