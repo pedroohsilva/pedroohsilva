@@ -2,7 +2,16 @@
 
 **Em busca de uma oportunidade profissional como Analista de Dados Júnior** ✨
 
-**Bolsista em 1º lugar pelo Prouni 2024** no curso de Análise e Desenvolvimento de Sistemas, sou **Analista de Dados** apaixonado por Cloud, Dados e Machine Learning. O propósito que me move é contribuir com empresas que buscam transformar dados — o novo petróleo — em combustível para um futuro melhor.
+**📊 Sobre mim:**
+
+Estudante de Análise e Desenvolvimento de Sistemas, sou um profissional com sólidos conhecimentos em **Data Analytics**, capacitado para identificar padrões e tendências nos dados, gerando insights e recomendações para a tomada de decisões. 
+
+Mas não para por aí! De olho no futuro, tenho ampliado meu conhecimento por meio de cursos e projetos práticos voltados à área de **Data Science** e **Machine Learning**, habilidades que se tornam cada vez mais essenciais para impulsionar a inovação, a automação inteligente e a competitividade das empresas em um mercado orientado por dados. Além disso, em colaboração com a equipe de **Inteligência Artificial** da Wesafer,  atuo como **AI Data Labeler** contribuindo para a criação de modelos de dados voltados ao desenvolvimento de sistemas de visão computacional em soluções tecnológicas.
+
+
+**🏅 Meu propósito:**
+
+O propósito que me move é contribuir para que as empresas transformem o valioso recurso dos dados — o novo petróleo — em combustível para um futuro melhor. 
 
 
 ---
