@@ -1,28 +1,24 @@
-### Olá! Sou Pedro Silva, Analista de Dados 👋
+### Olá, me chamo Pedro Silva! Sou apaixonado por tecnologia 👋🏽🔥
 
-**Em busca de uma oportunidade profissional como Analista de Dados Júnior** ✨
+Minha paixão por dados começou em 2023, durante meu ensino técnico integrado em Redes de Computadores no Cabo de Santo Agostinho, quando mergulhei no universo da **Data Science** durante o desenvolvimento um seminário. Com foco e dedicação, garanti meu ingresso no ensino superior em tecnologia com bolsa de 100% pelo Prouni.
 
-**📊 Sobre mim:**
+Atualmente, bolsista **1º lugar** no curso de **Análise e Desenvolvimento de Sistemas** e **Microsoft Power BI Data Analyst Professional Certified**, sou um profissional focado em Análise de Dados, com conhecimento na identificação de padrões, extração de insights estratégicos e apoio à tomada de decisões orientadas por dados. 
 
-Estudante de Análise e Desenvolvimento de Sistemas, sou um profissional com sólidos conhecimentos em **Data Analytics**, capacitado para identificar padrões e tendências nos dados, gerando insights e recomendações para a tomada de decisões. 
+**🏅 O Propósito que me move:**
+Transformar dados em soluções, vencer desafios e gerar valor para as pessoas.
 
-Mas não para por aí! De olho no futuro, tenho ampliado meu conhecimento por meio de cursos e projetos práticos voltados à área de **Data Science** e **Machine Learning**, habilidades que se tornam cada vez mais essenciais para impulsionar a inovação, a automação inteligente e a competitividade das empresas em um mercado orientado por dados. Além disso, em colaboração com a equipe de **Inteligência Artificial** da Wesafer,  atuo como **AI Data Labeler** contribuindo para a criação de modelos de dados voltados ao desenvolvimento de sistemas de visão computacional em soluções tecnológicas.
-
-
-**🏅 Meu propósito:**
-
-O propósito que me move é contribuir para que as empresas transformem o valioso recurso dos dados — o novo petróleo — em combustível para um futuro melhor. 
-
+**🚀 Minha Missão:**
+Impulsionar empresas na transformação do valioso recurso dos dados — o novo petróleo — em combustível estratégico e decisões inteligentes para um futuro melhor.
 
 ---
 ### 💡 Conhecimentos e Tecnologias
 
 | Categoria                 | Tecnologias e Ferramentas                      |
 | ------------------------- | ---------------------------------------------- |
-| **Análise de Dados**      | Python, SQL, Análise Exploratória de Dados     |
-| **Visualização de Dados** | Microsoft Power BI                      |
-| **Cloud Computing**  | Azure, Databricks                              | Básico |
-| **Machine Learning** | Estatística, Machine Learning (em desenvolvimento) | Básico |
+| **Análise de Dados**      | Excel, Python, SQL     |
+| **Visualização de Dados** | Microsoft Power BI, Power Point                |
+| **Cloud Computing**  | Azure, Databricks                              | 
+
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/1120ee63-71cd-49eb-b315-4c41ddc091d3" alt="Python" width="50"/>
