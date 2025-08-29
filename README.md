@@ -1,14 +1,10 @@
 ### Olá, me chamo Pedro Silva! Sou apaixonado por tecnologia 👋🏽🔥
 
-Minha paixão por dados começou em 2023, durante meu ensino médio técnico integrado em Redes de Computadores no Cabo de Santo Agostinho, ao mergulhar no universo da **Ciência de Dados** durante a apresentação de um seminário. Com foco e dedicação, garanti meu ingresso no ensino superior em tecnologia com bolsa de 100% pelo Prouni.
-
-Dois anos depois, sou bolsista 1º lugar no curso de Análise e Desenvolvimento de Sistemas e Microsoft Power BI Data Analyst Professional Certified. **Atualmente, busco minha primeira oportunidade no setor privado como um profissional focado em Análise de Dados e Inteligência Artificial**. Tenho conhecimento na identificação de padrões, extração de insights estratégicos e apoio à tomada de decisões orientadas por dados.
-
-**🏅 O Propósito que me move:**
-Transformar dados em soluções, vencer desafios e gerar valor para as pessoas.
-
-**🚀 Minha Missão:**
-Impulsionar empresas na transformação do valioso recurso dos dados — o novo petróleo — em combustível estratégico e decisões inteligentes para um futuro melhor.
+- Bolsista 1º lugar no curso de Análise e Desenvolvimento de Sistemas, UniFBV Wyden (cursando 4° período noturno)
+- Microsoft Power BI Data Analyst Professional Certified.
+- Estou **aberto a propostas de freelancer, oportunidades estágio e posições júnior em Análise de Dados & Estatística e Inteligência Artificial**, aplicando conhecimentos em identificação de padrões, extração de insights estratégicos e suporte à tomada de decisões orientadas por dados.
+&nbsp;
+&nbsp;
 
 ---
 ### 💡 Conhecimentos e Tecnologias
